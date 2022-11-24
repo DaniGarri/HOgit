@@ -1,8 +1,8 @@
 # HOgit
 Repositorio con ejercicios para practicar comandos básicos de git
-
+Hacemnos un cambio en la rama charlas
 ## Qué podemos hacer
-
+hacemos un cambio
 ### Commits
 Modificar un archivo y agregarlo al repositorio como un nuevo commit
 
